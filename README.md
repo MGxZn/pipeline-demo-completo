@@ -242,3 +242,7 @@ Se algo falhar no primeiro run, o erro vai estar no log do job — cole aqui e e
 - Trocar os thresholds de performance por um histórico (comparar com a `main`).
 - Fixar as Actions por **SHA** (em vez de `@v4`) para segurança extra contra ataques de cadeia de suprimentos.
 - Adicionar **rollback automático** se o smoke test de produção falhar (`vercel rollback`).
+
+<!-- Teste local do pipeline -->
+
+<!-- Teste local do pipeline -->
